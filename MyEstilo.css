@@ -1,2 +1,7 @@
-body(backgroundcolor:blue;
+@charset "utf-8"
+body(
+  backgroundcolor:blue;
+  font-weigth: bold;
+  color: #F00;
+  font-size:18px;
 )
