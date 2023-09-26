@@ -1,6 +1,6 @@
 // JavaScript Document
 funcion saludo() {
 
-    alert("Hola Alumnos con adicion correccion desde GitHub");
+    alert("Hola Alumnos con adicion correccion test desde GitHub");
 
 }e
